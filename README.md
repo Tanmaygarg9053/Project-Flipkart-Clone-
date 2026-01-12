@@ -12,16 +12,16 @@ No JavaScript has been used in this project. All layouts, scrolling behavior, an
 
        Key Features
 
-Responsive Navigation Bar with Logo & Menu
+1 Responsive Navigation Bar with Logo & Menu
 
-Search Bar UI similar to Flipkart
+2 Search Bar UI similar to Flipkart
 
-Banner Slider Section
+3 Banner Slider Section
 
-Horizontally Scrollable Product Cards (CSS only)
+4 Horizontally Scrollable Product Cards (CSS only)
 
-Multiple Product Categories
+5 Multiple Product Categories
 
-Clean & Organized Layout
+6 Clean & Organized Layout
 
-Mobile-friendly Responsive Design
+7 Mobile-friendly Responsive Design
