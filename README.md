@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Tanmaygarg9053/Tanmaygarg9053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://project-flipkart-clone.vercel.app/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This project is a Flipkart-inspired e-commerce website UI clone developed using only HTML5 and CSS3.
+The goal of this project is to understand and implement real-world frontend layouts used in large-scale e-commerce platforms.
+
+The website replicates the visual structure of Flipkart, including a navigation bar, search section, banner slider, and multiple horizontally scrollable product sections such as sports, furniture, and electronics.
+
+No JavaScript has been used in this project. All layouts, scrolling behavior, and responsiveness are achieved purely through CSS Flexbox, media queries, and modern styling techniques.
+
+Key Features
+
+Responsive Navigation Bar with Logo & Menu
+
+Search Bar UI similar to Flipkart
+
+Banner Slider Section
+
+Horizontally Scrollable Product Cards (CSS only)
+
+Multiple Product Categories
+
+Clean & Organized Layout
+
+Mobile-friendly Responsive Design
