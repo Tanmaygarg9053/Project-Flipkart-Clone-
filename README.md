@@ -10,7 +10,7 @@ The website replicates the visual structure of Flipkart, including a navigation 
 
 No JavaScript has been used in this project. All layouts, scrolling behavior, and responsiveness are achieved purely through CSS Flexbox, media queries, and modern styling techniques.
 
-Key Features
+       Key Features
 
 Responsive Navigation Bar with Logo & Menu
 
